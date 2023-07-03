@@ -167,3 +167,4 @@ echo -e "myuser\nmypass" >> /etc/vsftpd/virtual_users.txt
 exit
 docker restart vsftpd
 ```
+5) test
